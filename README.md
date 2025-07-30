@@ -10,10 +10,6 @@ A modern news application built using **React**, **Tailwind CSS**, and **News AP
 - Dark mode support
 - Built using React functional components and hooks
 
-## 📸 Screenshots
-
-![App Screenshot](./public/projects/project4.png)
-
 ## 🛠️ Tech Stack
 
 - React.js
@@ -21,25 +17,6 @@ A modern news application built using **React**, **Tailwind CSS**, and **News AP
 - NewsAPI
 - JavaScript (ES6+)
 
-## 📦 Installation
-
-```bash
-git clone https://github.com/your-username/news-application.git
-cd news-application
-npm install
-npm start
-
-# Welcome to your Expo app 👋
-
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
-
-## Get started
-
-1. Install dependencies
-
-   ```bash
-   npm install
-   ```
 
 2. Start the app
 
