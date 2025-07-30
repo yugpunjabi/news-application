@@ -1,4 +1,5 @@
 # 📰 Apple News Application
+Live Link : https://news-application-yug-app-dev-project--c0ip64j9i6.expo.app
 
 A modern news application built using **React**, **Tailwind CSS**, and **News API** to display the latest trending articles in a clean UI.
 
