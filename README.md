@@ -5,10 +5,9 @@ A modern news application built using **React**, **Tailwind CSS**, and **News AP
 
 ## 🚀 Features
 
-- Fetches top headlines from Apple News using NewsAPI
+- Fetches top headlines from Various Different News Platforms using NewsAPI
 - Fully responsive design using Tailwind CSS
 - Clean and minimal UI/UX
-- Dark mode support
 - Built using React functional components and hooks
 
 ## 🛠️ Tech Stack
